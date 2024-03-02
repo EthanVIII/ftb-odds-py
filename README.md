@@ -33,7 +33,7 @@ C = Clubs
 
 S = Spades
 
-So for example, a 2 of Clubs would be `7C` and a King of Hearts would be `13H`.
+So for example, a 7 of Clubs would be `7C` and a King of Hearts would be `13H`.
 
 ## Commands
 These are the following commands that can be executed:
