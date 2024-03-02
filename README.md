@@ -11,6 +11,7 @@ As soon as you execute the script, it will accept commands or card inputs only.
 Card inputs are structured like this: \[Rank Number\]\[Suit Abbreviation\], where \[Rank Number\] is:
 
 **Rank Number to Rank**
+
 1 = Ace
 
 2..10 = 2..10 
@@ -21,7 +22,9 @@ Card inputs are structured like this: \[Rank Number\]\[Suit Abbreviation\], wher
 
 13 = King
 
+
 and \[Suit Abbreviation\] is:
+
 
 **Suit Abbreviation to Suit**
 
