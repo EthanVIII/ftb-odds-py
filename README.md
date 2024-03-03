@@ -4,7 +4,6 @@ F\*ck the Bus (FTB) is a [simple drinking game](https://drinkinggamesbible.com/r
 
 Simply input the cards that are drawn and the calculator will generate the odds for each stage of the game, keeping track of what cards have already been played.
 
-# Input
 As soon as you execute the script, it will accept commands or card inputs only.
 
 ## Card Inputs
